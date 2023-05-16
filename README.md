@@ -12,14 +12,14 @@
 
 1. Install the dependencies
 ```
-npm i -D eslint @tma/eslint-config
+npm i -D eslint tma-eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@tma/eslint-config/react"
-  // "extends": "@tma/eslint-config/node"
+  "extends": "tma-eslint-config/react"
+  // "extends": "tma-eslint-config/node"
 }
 ```
 

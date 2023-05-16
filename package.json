@@ -1,12 +1,12 @@
 {
-  "name": "@tma/eslint-config",
+  "name": "tma-eslint-config",
   "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Tiago Araujo.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "tma/eslint-config-tma"
+    "url": "eslint-config-tma"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
